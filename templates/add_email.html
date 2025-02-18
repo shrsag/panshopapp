@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Email</title>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes buttonPress {
+            0% { transform: scale(1); }
+            50% { transform: scale(0.95); }
+            100% { transform: scale(1); }
+        }
+        body {
+            font-family: "Poppins", sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #2193b0, #6dd5ed);
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.2);
+            animation: fadeIn 0.8s ease-out;
+        }
+        input {
+            padding: 12px;
+            font-size: 16px;
+            width: 250px;
+            border: 2px solid #2193b0;
+            border-radius: 8px;
+            outline: none;
+            margin: 8px 0;
+            transition: all 0.3s ease-in-out;
+        }
+        input:focus {
+            border-color: #6dd5ed;
+            box-shadow: 0px 0px 8px rgba(109, 213, 237, 0.5);
+        }
+        button {
+            padding: 12px;
+            font-size: 18px;
+            width: 260px;
+            border: none;
+            border-radius: 8px;
+            background: linear-gradient(45deg, #56ab2f, #a8e063);
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+        button:hover {
+            background: linear-gradient(45deg, #a8e063, #56ab2f);
+            transform: scale(1.05);
+            box-shadow: 0px 5px 15px rgba(86, 171, 47, 0.4);
+        }
+        button:active {
+            animation: buttonPress 0.2s ease;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Add Email</h1>
+
+    <form action="{% url 'add_email_database' %}" method="post">
+        {% csrf_token %}
+        <input type="text" name="name" placeholder="Enter your name">
+        <br>
+        <input type="email" name="email" placeholder="Enter your email" required>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <br>
+
+    <a href="{% url 'home' %}">
+        <button>Back to Home</button>
+    </a>
+</div>
+
+</body>
+</html>

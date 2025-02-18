@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notification Application</title>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes buttonPress {
+            0% { transform: scale(1); }
+            50% { transform: scale(0.95); }
+            100% { transform: scale(1); }
+        }
+        @keyframes showAlert {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        body {
+            font-family: "Poppins", sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.2);
+            animation: fadeIn 0.8s ease-out;
+        }
+        h1 {
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        button {
+            padding: 12px;
+            font-size: 18px;
+            width: 260px;
+            border: none;
+            border-radius: 8px;
+            background: linear-gradient(45deg, #ff416c, #ff4b2b);
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+        button:hover {
+            background: linear-gradient(45deg, #ff4b2b, #ff416c);
+            transform: scale(1.05);
+            box-shadow: 0px 5px 15px rgba(255, 65, 108, 0.4);
+        }
+        button:active {
+            animation: buttonPress 0.2s ease;
+        }
+
+        /* Alert Box Styles */
+        .alert {
+            display: none;
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            border-radius: 5px;
+            font-size: 18px;
+            animation: showAlert 0.6s ease-out;
+        }
+
+        .alert.error {
+            background-color: #f44336;
+        }
+
+        /* Welcome Message */
+        .welcome-message {
+            background-color: #2196F3;
+            color: white;
+            padding: 15px;
+            font-size: 18px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Notification Application</h1>
+
+    <!-- Show Welcome Alert if it's the first visit -->
+    {% if first_visit %}
+    <div class="alert" id="welcomeAlert">
+        Welcome to the Notification Application!
+    </div>
+    {% endif %}
+
+    <div class="button-container">
+        <a href="{% url 'add_email_page' %}">
+            <button>Add Email</button>
+        </a>
+    </div>
+
+    <br>
+
+    <form action="{% url 'open_notification' %}" method="post">
+        {% csrf_token %}
+        <button type="submit">Open</button>
+    </form>
+
+    <br>
+
+    <form action="{% url 'close_notification' %}" method="post">
+        {% csrf_token %}
+        <button type="submit">Close</button>
+    </form>
+    <br>
+    {% if user.is_authenticated %}
+        <a href="{% url 'logout' %}"><button class="btn btn-danger">Logout</button></a>
+    {% else %}
+        <a href="{% url 'login' %}"><button class="btn btn-primary">Login</button></a>
+    {% endif %}
+</div>
+
+<!-- Alert Box for Success/Failure -->
+<div id="alertBox" class="alert {% if success_message %}success{% elif error_message %}error{% endif %}">
+    {% if success_message %}
+        {{ success_message }}
+    {% elif error_message %}
+        {{ error_message }}
+    {% endif %}
+</div>
+
+<script>
+    // Show the "Welcome" alert message for first-time visitors
+    window.onload = function() {
+        const welcomeAlert = document.getElementById('welcomeAlert');
+        if (welcomeAlert) {
+            welcomeAlert.style.display = 'block';
+            setTimeout(() => {
+                welcomeAlert.style.display = 'none';
+            }, 3000);  // Welcome message disappears after 3 seconds
+        }
+    }
+
+    // Show the alert box if there's a message to display
+    const alertBox = document.getElementById('alertBox');
+    if (alertBox) {
+        alertBox.style.display = 'block';
+        setTimeout(() => {
+            alertBox.style.display = 'none';
+        }, 3000);  // Alert disappears after 3 seconds
+    }
+</script>
+
+</body>
+</html>
