@@ -1,0 +1,404 @@
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\security.py", line 28, in process_request
+    host = self.redirect_host or request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\security.py", line 28, in process_request
+    host = self.redirect_host or request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\security.py", line 28, in process_request
+    host = self.redirect_host or request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\security.py", line 28, in process_request
+    host = self.redirect_host or request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Invalid HTTP_HOST header: '127.0.0.1:9000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:9000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 24, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 95, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7324273eac4sm882488b3a.113 - gsmtp')
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 24, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 95, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 750, in login
+    raise last_exception
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-220d5584dfbsm8716335ad.213 - gsmtp')
+"POST /open/ HTTP/1.1" 500 106781
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 24, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 82, in send_mail
+    mail = EmailMultiAlternatives(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 462, in __init__
+    super().__init__(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 219, in __init__
+    raise TypeError('"to" argument must be a list or tuple')
+TypeError: "to" argument must be a list or tuple
+"POST /open/ HTTP/1.1" 500 88412
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1791, in get_mailbox
+    token, value = get_name_addr(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1767, in get_name_addr
+    raise errors.HeaderParseError(
+email.errors.HeaderParseError: expected name-addr but found '@'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1456, in get_local_part
+    token, value = get_dot_atom(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1365, in get_dot_atom
+    token, value = get_dot_atom_text(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1334, in get_dot_atom_text
+    raise errors.HeaderParseError("expected atom at a start of "
+email.errors.HeaderParseError: expected atom at a start of dot-atom-text but found '@'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1794, in get_mailbox
+    token, value = get_addr_spec(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1640, in get_addr_spec
+    token, value = get_local_part(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1459, in get_local_part
+    token, value = get_word(value)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1398, in get_word
+    raise errors.HeaderParseError("Expected 'atom' or 'quoted-string' "
+email.errors.HeaderParseError: Expected 'atom' or 'quoted-string' but found '@'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 86, in sanitize_address
+    token, rest = parser.get_mailbox(addr)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\email\_header_value_parser.py", line 1796, in get_mailbox
+    raise errors.HeaderParseError(
+email.errors.HeaderParseError: expected mailbox but found '@'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 24, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 150, in _send
+    recipients = [
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 151, in <listcomp>
+    sanitize_address(addr, encoding) for addr in email_message.recipients()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 88, in sanitize_address
+    raise ValueError('Invalid address "%s"' % addr)
+ValueError: Invalid address "@"
+"POST /open/ HTTP/1.1" 500 142784
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 25, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 93, in open
+    self.connection.starttls(context=self.ssl_context)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 790, in starttls
+    self.sock = context.wrap_socket(self.sock,
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+"POST /open/ HTTP/1.1" 500 108892
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 25, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 86, in open
+    self.connection = self.connection_class(
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+"POST /open/ HTTP/1.1" 500 111397
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 25, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 14, in send_notification
+    list(re),
+NameError: name 're' is not defined
+"POST /open/ HTTP/1.1" 500 72081
+Internal Server Error: /close/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 31, in close_notification
+    send_notification("Shop Closed", "Sagar has closed the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 95, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 714, in login
+    self.ehlo_or_helo_if_needed()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 611, in ehlo_or_helo_if_needed
+    if not (200 <= self.ehlo()[0] <= 299):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 452, in ehlo
+    (code, msg) = self.getreply()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 405, in getreply
+    raise SMTPServerDisconnected("Connection unexpectedly closed")
+smtplib.SMTPServerDisconnected: Connection unexpectedly closed
+"GET /close/ HTTP/1.1" 500 103429
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 26, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 86, in open
+    self.connection = self.connection_class(
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\socket.py", line 845, in create_connection
+    raise err
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\socket.py", line 833, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+"POST /open/ HTTP/1.1" 500 114118
+Internal Server Error: /open/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 26, in open_notification
+    send_notification("Shop Opened", "Sagar has opened the shop.")
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 10, in send_notification
+    send_mail(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\__init__.py", line 88, in send_mail
+    return mail.send()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\message.py", line 301, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 128, in send_messages
+    new_conn_created = self.open()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\mail\backends\smtp.py", line 86, in open
+    self.connection = self.connection_class(
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\socket.py", line 845, in create_connection
+    raise err
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python310\lib\socket.py", line 833, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+"POST /open/ HTTP/1.1" 500 114122
+Internal Server Error: /add_email/
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py", line 33, in add_email_page
+    return render(request, 'add_email.html')
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: add_email.html
+"GET /add_email/ HTTP/1.1" 500 82167

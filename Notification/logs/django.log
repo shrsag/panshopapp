@@ -1,0 +1,526 @@
+INFO 2025-02-14 12:35:38,247 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:49:44,448 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py changed, reloading.
+INFO 2025-02-14 12:49:45,610 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:49:47,212 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py changed, reloading.
+INFO 2025-02-14 12:49:47,989 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:49:49,338 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py changed, reloading.
+INFO 2025-02-14 12:49:50,304 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:49:54,771 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py changed, reloading.
+INFO 2025-02-14 12:49:55,710 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:50:02,294 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 12:50:03,365 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:50:05,820 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 12:50:06,653 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:50:11,389 basehttp "GET / HTTP/1.1" 301 0
+INFO 2025-02-14 12:50:11,437 basehttp code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063zz\x00\x00ÿ\x01\x00\x01\x00\x00')
+ERROR 2025-02-14 12:50:11,439 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:50:11,443 basehttp code 400, message Bad request version ('æB\x9f,$ùgÍsËy\x13¨Ôxwiÿæ\x02\x98"IÈ\x05§²#')
+ERROR 2025-02-14 12:50:11,443 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:50:37,029 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:50:39,798 basehttp code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sêê\x00\x00\x00-\x00\x02\x01\x01\x00+\x00\x07\x06::\x03\x04\x03\x03\x00#\x00\x00\x00')
+ERROR 2025-02-14 12:50:39,799 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:50:39,835 basehttp code 400, message Bad request version ('ãµð\x8fkÔ\x8bê\x01\x90¥\x9f¤\x0f5ü')
+ERROR 2025-02-14 12:50:39,836 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:02,977 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 12:51:19,976 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:51:27,870 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 12:51:28,735 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:51:30,260 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 12:51:31,520 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:51:33,123 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 12:51:34,021 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:51:35,632 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 12:51:36,812 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:51:38,360 basehttp code 400, message Bad request version ('UX£')
+ERROR 2025-02-14 12:51:38,361 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:38,361 basehttp code 400, message Bad request version ('\x9føÊV¡Z\x01Ó\x1a.P»Ø\x03\x8aJtZ1\x9c\x98ÆÆ4\x9f')
+ERROR 2025-02-14 12:51:38,362 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:38,365 basehttp code 400, message Bad request version ('åM¥,Ì\x93ë\x9b\x91\x89u')
+ERROR 2025-02-14 12:51:38,365 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:38,367 basehttp code 400, message Bad request version ("á].'zëYlMÓ¿ã,Ôî\x87")
+ERROR 2025-02-14 12:51:38,367 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:41,137 basehttp code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00DÍ\x00\x05\x00\x03\x02h2\x00')
+ERROR 2025-02-14 12:51:41,137 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:41,138 basehttp code 400, message Bad request version ('\x7fy\x00')
+ERROR 2025-02-14 12:51:41,139 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:41,143 basehttp code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93ZZ\x00\x00\x00')
+ERROR 2025-02-14 12:51:41,143 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:41,144 basehttp code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x03u!ÄR\x83\x16ÏcÎ\x08Æã\x82£©ý\x82¼\x110\x92\x15¼\x9bRO-¾üÜ\x87Z')
+ERROR 2025-02-14 12:51:41,144 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-14 12:51:50,921 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 12:56:23,563 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 12:56:26,978 basehttp "GET / HTTP/1.1" 200 2638
+INFO 2025-02-14 12:56:29,120 basehttp "POST /open/ HTTP/1.1" 200 50
+INFO 2025-02-14 12:56:38,004 basehttp "POST /close/ HTTP/1.1" 200 51
+INFO 2025-02-14 12:59:12,340 basehttp "GET / HTTP/1.1" 200 3860
+INFO 2025-02-14 13:03:27,902 basehttp "GET / HTTP/1.1" 200 5033
+INFO 2025-02-14 13:03:35,370 basehttp "POST /open/ HTTP/1.1" 200 51
+INFO 2025-02-14 13:03:38,511 basehttp "POST /open/ HTTP/1.1" 200 51
+INFO 2025-02-14 13:03:42,451 basehttp "POST /open/ HTTP/1.1" 200 50
+INFO 2025-02-14 13:03:50,944 basehttp "POST /close/ HTTP/1.1" 200 51
+INFO 2025-02-14 13:04:07,992 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 15:56:34,983 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 15:56:41,711 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 15:56:45,058 basehttp - Broken pipe from ('127.0.0.1', 55140)
+INFO 2025-02-14 15:56:45,155 basehttp "GET / HTTP/1.1" 200 4455
+INFO 2025-02-14 15:56:56,264 basehttp "POST /open/ HTTP/1.1" 200 4527
+INFO 2025-02-14 15:57:17,085 basehttp "POST /close/ HTTP/1.1" 200 4527
+INFO 2025-02-14 16:14:08,977 basehttp "GET / HTTP/1.1" 200 4455
+INFO 2025-02-14 16:14:20,471 basehttp "POST /open/ HTTP/1.1" 200 4527
+INFO 2025-02-14 16:39:28,855 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 17:12:12,746 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:14:03,125 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\views.py changed, reloading.
+INFO 2025-02-14 17:14:03,919 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:14:13,423 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 17:14:14,161 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:14:16,464 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 17:14:17,212 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:14:18,591 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 17:14:19,309 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:14:28,781 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 17:14:29,528 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:15:04,026 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-14 17:15:05,026 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:15:46,767 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 17:15:47,545 autoreload Watching for file changes with StatReloader
+INFO 2025-02-14 17:15:49,028 autoreload C:\Users\DELL\Desktop\Notifier\Notification\NotificationApp\urls.py changed, reloading.
+INFO 2025-02-14 17:15:50,096 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-14 17:15:55,473 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-14 17:15:55,473 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-14 17:15:55,643 basehttp "GET / HTTP/1.1" 400 143
+ERROR 2025-02-14 17:16:13,059 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-14 17:16:13,059 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-14 17:16:13,061 basehttp "GET / HTTP/1.1" 400 143
+ERROR 2025-02-14 17:16:21,125 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-14 17:16:21,125 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-14 17:16:21,127 basehttp "GET / HTTP/1.1" 400 143
+ERROR 2025-02-14 17:16:21,364 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-14 17:16:21,364 exception Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:7000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-14 17:16:21,365 basehttp "GET / HTTP/1.1" 400 143
+INFO 2025-02-14 17:16:36,444 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:45:58,717 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 16:46:02,192 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-18 16:46:02,241 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-18 16:46:11,730 basehttp "POST /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-02-18 16:46:11,819 basehttp "GET / HTTP/1.1" 200 4659
+INFO 2025-02-18 16:46:23,886 basehttp "POST /open/ HTTP/1.1" 200 4624
+INFO 2025-02-18 16:46:58,657 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-02-18 16:46:58,665 basehttp "GET /login/ HTTP/1.1" 200 5644
+INFO 2025-02-18 16:49:14,000 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:49:22,769 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 16:49:27,117 basehttp "GET / HTTP/1.1" 301 0
+INFO 2025-02-18 16:49:27,162 basehttp code 400, message Bad request version ('Ñ\x07þb\x99/Ç9[¨\x12¿\x92\x98B1=kW\x9c§\x16\x02îKMI\x06É\x9fÁ"Èq\x9dâL>Óª¹(+-7\x07ËÎ¨AÅ«\x0fÐ×')
+ERROR 2025-02-18 16:49:27,163 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:27,168 basehttp code 400, message Bad request version ('\x8e/X`Õ\x8b\x00')
+ERROR 2025-02-18 16:49:27,168 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:32,825 basehttp "GET /login/ HTTP/1.1" 301 0
+INFO 2025-02-18 16:49:32,837 basehttp code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03[ùUf¥¬H\x8eãa')
+ERROR 2025-02-18 16:49:32,837 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:32,839 basehttp code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03a')
+ERROR 2025-02-18 16:49:32,839 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:35,395 basehttp code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93**\x00\x00\x00')
+ERROR 2025-02-18 16:49:35,396 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:35,398 basehttp code 400, message Bad request version ('\x99Ì\x9bX&\x9c3{A')
+ERROR 2025-02-18 16:49:35,398 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:35,398 basehttp code 400, message Bad request version ('þCb{<]É0Je')
+ERROR 2025-02-18 16:49:35,398 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:35,399 basehttp code 400, message Bad request version ('¬\x1bi\x88')
+ERROR 2025-02-18 16:49:35,400 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:43,028 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:49:43,788 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 16:49:44,388 basehttp code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06S')
+ERROR 2025-02-18 16:49:44,389 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:44,389 basehttp code 400, message Bad request version ("R\x07Æ³V÷Êã6\x13Oòl\x95`:IÖ\x8fk\x90u)CK³\x05\x954\x06zN'¦\x97\x10Epè´ìuY¬§G\x02É¥\x9e\x89J`Ñ>n3¿gû\x0f\x13¨\x88)·q,Ú\x9e×à¯\x90\x9c64°\x8d>\x98Z\x90a¬¦")
+ERROR 2025-02-18 16:49:44,390 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:44,392 basehttp code 400, message Bad request syntax ('\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03yáe¡É:ß÷Ts')
+ERROR 2025-02-18 16:49:44,392 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:44,394 basehttp code 400, message Bad request version ('f¨Abg\x061Ðù®r\x12')
+ERROR 2025-02-18 16:49:44,394 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:52,808 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 16:49:57,251 basehttp code 400, message Bad request version ('(\x11s÷¸:\x06\x9a\x14±\x98\x99\x07\x87\x8eå\x96ck')
+ERROR 2025-02-18 16:49:57,252 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:49:57,258 basehttp code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93')
+ERROR 2025-02-18 16:49:57,259 basehttp You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2025-02-18 16:50:09,905 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:57:27,741 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 16:57:32,430 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-18 16:57:32,454 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-18 16:57:52,506 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:57:53,324 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-18 16:57:56,914 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-18 16:57:56,914 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-18 16:57:56,998 basehttp "GET /login/?next=/ HTTP/1.1" 400 143
+INFO 2025-02-18 16:58:04,299 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:58:27,967 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-18 16:58:28,300 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-18 16:58:28,300 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-18 16:58:28,308 basehttp "GET /login/?next=/ HTTP/1.1" 400 143
+ERROR 2025-02-18 16:58:31,494 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-18 16:58:31,494 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-18 16:58:31,495 basehttp "GET / HTTP/1.1" 400 143
+INFO 2025-02-18 16:58:41,970 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:58:42,883 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 16:58:43,534 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-18 16:58:43,546 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-18 16:59:02,883 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:59:03,662 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-18 16:59:05,719 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-18 16:59:05,719 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-18 16:59:05,724 basehttp "GET /login/?next=/ HTTP/1.1" 400 143
+ERROR 2025-02-18 16:59:08,329 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+ERROR 2025-02-18 16:59:08,329 exception Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\http\request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8080'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2025-02-18 16:59:08,330 basehttp "GET / HTTP/1.1" 400 143
+INFO 2025-02-18 16:59:12,744 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-18 16:59:13,644 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 16:59:14,425 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-18 16:59:14,435 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-18 18:38:24,405 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 18:38:28,270 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-18 18:38:28,314 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-18 19:12:45,826 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-18 19:12:45,860 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-18 21:04:51,407 autoreload Watching for file changes with StatReloader
+INFO 2025-02-18 21:04:55,108 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-18 21:04:55,155 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-18 21:05:03,222 basehttp "POST /login/?next=/ HTTP/1.1" 302 0
+INFO 2025-02-18 21:05:03,344 basehttp "GET / HTTP/1.1" 200 4659
+INFO 2025-02-18 21:05:07,832 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-02-18 21:05:07,839 basehttp "GET /login/ HTTP/1.1" 200 5644
+INFO 2025-02-19 14:35:22,545 autoreload Watching for file changes with StatReloader
+ERROR 2025-02-19 14:35:34,099 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 244, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "django_session" does not exist
+LINE 1: ...ession_data", "django_session"."expire_date" FROM "django_se...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\decorators.py", line 57, in _view_wrapper
+    test_pass = test_func(request.user)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\decorators.py", line 80, in <lambda>
+    lambda u: u.is_authenticated,
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\functional.py", line 251, in inner
+    self._setup()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\functional.py", line 404, in _setup
+    self._wrapped = self._setupfunc()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\middleware.py", line 37, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\middleware.py", line 17, in get_user
+    request._cached_user = auth.get_user(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\__init__.py", line 209, in get_user
+    user_id = _get_user_session_key(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\__init__.py", line 62, in _get_user_session_key
+    return get_user_model()._meta.pk.to_python(request.session[SESSION_KEY])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 249, in _get_session
+    self._session_cache = self.load()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\db.py", line 55, in load
+    s = self._get_session_from_db()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\db.py", line 34, in _get_session_from_db
+    return self.model.objects.get(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "django_session" does not exist
+LINE 1: ...ession_data", "django_session"."expire_date" FROM "django_se...
+                                                             ^
+
+ERROR 2025-02-19 14:35:34,099 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 244, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "django_session" does not exist
+LINE 1: ...ession_data", "django_session"."expire_date" FROM "django_se...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\decorators.py", line 57, in _view_wrapper
+    test_pass = test_func(request.user)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\decorators.py", line 80, in <lambda>
+    lambda u: u.is_authenticated,
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\functional.py", line 251, in inner
+    self._setup()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\utils\functional.py", line 404, in _setup
+    self._wrapped = self._setupfunc()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\middleware.py", line 37, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\middleware.py", line 17, in get_user
+    request._cached_user = auth.get_user(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\__init__.py", line 209, in get_user
+    user_id = _get_user_session_key(request)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\auth\__init__.py", line 62, in _get_user_session_key
+    return get_user_model()._meta.pk.to_python(request.session[SESSION_KEY])
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 55, in __getitem__
+    return self._session[key]
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 249, in _get_session
+    self._session_cache = self.load()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\db.py", line 55, in load
+    s = self._get_session_from_db()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\contrib\sessions\backends\db.py", line 34, in _get_session_from_db
+    return self.model.objects.get(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 645, in get
+    num = len(clone)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 382, in __len__
+    self._fetch_all()
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\DELL\Desktop\Notifier\venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "django_session" does not exist
+LINE 1: ...ession_data", "django_session"."expire_date" FROM "django_se...
+                                                             ^
+
+ERROR 2025-02-19 14:35:34,655 basehttp "GET / HTTP/1.1" 500 145
+INFO 2025-02-19 14:35:42,463 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-19 14:35:43,608 autoreload Watching for file changes with StatReloader
+INFO 2025-02-19 14:35:55,615 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-19 14:35:56,801 autoreload Watching for file changes with StatReloader
+INFO 2025-02-19 14:36:00,510 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-19 14:36:00,541 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
+INFO 2025-02-19 14:38:20,702 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-19 14:38:22,645 autoreload Watching for file changes with StatReloader
+INFO 2025-02-19 14:39:43,072 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
+INFO 2025-02-19 14:39:44,575 autoreload Watching for file changes with StatReloader
