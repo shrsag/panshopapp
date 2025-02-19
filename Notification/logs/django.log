@@ -524,3 +524,9 @@ INFO 2025-02-19 14:38:20,702 autoreload C:\Users\DELL\Desktop\Notifier\Notificat
 INFO 2025-02-19 14:38:22,645 autoreload Watching for file changes with StatReloader
 INFO 2025-02-19 14:39:43,072 autoreload C:\Users\DELL\Desktop\Notifier\Notification\Notification\settings.py changed, reloading.
 INFO 2025-02-19 14:39:44,575 autoreload Watching for file changes with StatReloader
+INFO 2025-02-19 17:15:06,656 autoreload Watching for file changes with StatReloader
+INFO 2025-02-19 17:15:10,624 basehttp "GET / HTTP/1.1" 200 4552
+INFO 2025-02-19 17:15:13,795 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-02-19 17:15:13,807 basehttp "GET /login/ HTTP/1.1" 200 5644
+INFO 2025-02-19 17:15:20,212 basehttp "GET / HTTP/1.1" 302 0
+INFO 2025-02-19 17:15:20,228 basehttp "GET /login/?next=/ HTTP/1.1" 200 5644
