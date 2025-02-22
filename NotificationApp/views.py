@@ -112,4 +112,4 @@ def logout_view(request):
 
 
 def about(request):
-    return render(request, 'about.html')  # Ensure about.html exists in the templates folder
+    return render(request, 'about.html')  
